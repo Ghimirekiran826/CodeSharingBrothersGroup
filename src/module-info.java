@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kiranghimire
+ *
+ */
+module CodingBatProblems {
+}
