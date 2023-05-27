@@ -15,7 +15,7 @@ public class Addinglastchartostring {
 		  return ch+str+ch;
 		}
 	public static void main(String[] args) {
-		String finalresult = backAround("Kiran");
+		String finalresult = backAround("Kiran Ghimire");
 		System.out.println(finalresult);
 	}
 }
